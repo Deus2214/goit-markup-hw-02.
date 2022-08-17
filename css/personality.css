@@ -1,0 +1,822 @@
+.body{
+    /* Портфоліо */
+
+
+position: relative;
+width: 1600px;
+height: 1880px;
+
+background: #FFFFFF;
+}
+.header{
+    /* top line bg */
+
+
+    position: absolute;
+    width: 1600px;
+    height: 80px;
+    left: 0px;
+    top: 0px;
+    
+    background: #FFFFFF;}
+    .logo-web{
+        /* WebStudio */
+
+
+position: absolute;
+width: 145px;
+height: 31px;
+left: 215px;
+top: 24px;
+
+font-family: 'Raleway';
+font-style: normal;
+font-weight: 700;
+font-size: 26px;
+line-height: 31px;
+/* identical to box height */
+
+letter-spacing: 0.03em;
+
+color: #2196F3;
+    }
+    .logo-studio{ color: #000000;}
+    
+    
+    .current{
+        /* Студія */
+
+
+position: absolute;
+width: 45px;
+height: 16px;
+left: 453px;
+top: 32px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 16px;
+letter-spacing: 0.02em;
+
+color: #212121;
+
+    }
+    .current-2{/* Портфоліо */
+
+
+        position: absolute;
+        width: 72px;
+        height: 16px;
+        left: 548px;
+        top: 32px;
+        
+        font-family: 'Roboto';
+        font-style: normal;
+        font-weight: 500;
+        font-size: 14px;
+        line-height: 16px;
+        letter-spacing: 0.02em;
+        
+        color: #2196F3;
+        }
+        .current-3{
+            /* Контакти */
+
+
+position: absolute;
+width: 64px;
+height: 16px;
+left: 670px;
+top: 32px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 16px;
+letter-spacing: 0.02em;
+
+color: #212121;
+
+        }
+
+.current-4{
+    /* info@devstudio.com */
+
+
+    position: absolute;
+    width: 135px;
+    height: 16px;
+    left: 1078px;
+    top: 32px;
+    
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 16px;
+    letter-spacing: 0.02em;
+    
+    color: #2196F3;}
+    .current-5{
+        /* +38 096 111 11 11 */
+
+
+position: absolute;
+width: 122px;
+height: 16px;
+left: 1263px;
+top: 32px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 16px;
+letter-spacing: 0.02em;
+
+color: #757575;
+    }
+.main-title{
+    left: 1078px;
+    right: 1078px;
+}
+.button{/* Rectangle 10 */
+
+
+    position: absolute;
+    width: 73px;
+    height: 38px;
+    left: 512px;
+    top: 174px;
+    color: #FFFFFF;
+    background: #2196F3;
+    /* shadow-middle */
+    
+    box-shadow: 0px 3px 1px rgba(0, 0, 0, 0.1), 0px 1px 2px rgba(0, 0, 0, 0.08), 0px 2px 2px rgba(0, 0, 0, 0.12);
+    border-radius: 4px;
+}
+
+    .title-2{
+    /* Веб-сайти */
+
+
+position: absolute;
+width: 81px;
+height: 26px;
+left: 615px;
+top: 180px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 26px;
+/* identical to box height, or 162% */
+
+text-align: center;
+letter-spacing: 0.03em;
+
+color: #212121;
+
+}
+
+.title-3{
+    /* Додатки */
+
+
+position: absolute;
+width: 68px;
+height: 26px;
+left: 748px;
+top: 180px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 26px;
+/* identical to box height, or 162% */
+
+text-align: center;
+letter-spacing: 0.03em;
+
+color: #212121;
+
+}
+
+.title-4{
+    /* Дизайн */
+
+
+position: absolute;
+width: 59px;
+height: 26px;
+left: 868px;
+top: 180px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 26px;
+/* identical to box height, or 162% */
+
+text-align: center;
+letter-spacing: 0.03em;
+
+color: #212121;
+}
+.title-5{
+    /* Маркетинг */
+
+
+position: absolute;
+width: 86px;
+height: 26px;
+left: 979px;
+top: 180px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 26px;
+/* identical to box height, or 162% */
+
+text-align: center;
+letter-spacing: 0.03em;
+
+color: #212121;
+
+}
+.list{list-style: none;}
+.img-1{
+    /* img */
+
+
+position: absolute;
+width: 370px;
+height: 294px;
+left: 215px;
+top: 262px;
+
+background: url(portfolio1.jpg);
+}
+.img-2{
+    /* img */
+
+
+position: absolute;
+width: 370px;
+height: 294px;
+left: 615px;
+top: 262px;
+
+background: url(portfolio2.jpg);
+}
+.img-3{
+    /* img */
+
+
+position: absolute;
+width: 370px;
+height: 294px;
+left: 1015px;
+top: 262px;
+
+background: url(portfolio-1.jpg);
+}
+.img-4{
+    /* img */
+
+
+position: absolute;
+width: 370px;
+height: 294px;
+left: 215px;
+top: 696px;
+
+background: url(portfolio-2.jpg);
+}
+.img-5{
+    /* img */
+
+
+position: absolute;
+width: 370px;
+height: 294px;
+left: 615px;
+top: 696px;
+
+background: url(portfolio5.jpg);
+}
+.img-6{
+    /* img */
+
+
+position: absolute;
+width: 370px;
+height: 294px;
+left: 1015px;
+top: 696px;
+
+background: url(111.jpg);
+}
+.img-7{
+    /* img */
+
+
+position: absolute;
+width: 370px;
+height: 294px;
+left: 215px;
+top: 1130px;
+
+background: url(portfolio7.jpg);
+}
+.img-8{/* img */
+
+
+position: absolute;
+width: 370px;
+height: 294px;
+left: 615px;
+top: 1130px;
+
+background: url(portfolio8.jpg);}
+
+.img-9{
+    /* img */
+
+
+    position: absolute;
+    width: 370px;
+    height: 294px;
+    left: 1015px;
+    top: 1130px;
+    
+    background: url(2910404.jpg);}
+
+    .name-1{
+   /* Технокряк */
+
+
+position: absolute;
+width: 322px;
+height: 36px;
+left: 239px;
+top: 576px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 700;
+font-size: 18px;
+line-height: 36px;
+/* identical to box height, or 200% */
+
+letter-spacing: 0.06em;
+
+color: #212121;
+
+    }
+  .name-2{
+    /* Постер New Orlean vs Golden Star */
+
+
+position: absolute;
+width: 322px;
+height: 36px;
+left: 639px;
+top: 576px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 700;
+font-size: 18px;
+line-height: 36px;
+/* identical to box height, or 200% */
+
+letter-spacing: 0.06em;
+
+color: #212121;
+  }
+  .name-3{
+    /* Ресторан Seafood */
+
+
+position: absolute;
+width: 322px;
+height: 36px;
+left: 1039px;
+top: 576px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 700;
+font-size: 18px;
+line-height: 36px;
+/* identical to box height, or 200% */
+
+letter-spacing: 0.06em;
+
+color: #212121;
+
+
+  }
+  .name-4{
+   /* Проєкт Prime */
+
+
+position: absolute;
+width: 322px;
+height: 36px;
+left: 239px;
+top: 1010px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 700;
+font-size: 18px;
+line-height: 36px;
+/* identical to box height, or 200% */
+
+letter-spacing: 0.06em;
+
+color: #212121;
+
+  }
+  .name-5{
+    /* Проєкт Boxes */
+
+
+position: absolute;
+width: 322px;
+height: 36px;
+left: 639px;
+top: 1010px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 700;
+font-size: 18px;
+line-height: 36px;
+/* identical to box height, or 200% */
+
+letter-spacing: 0.06em;
+
+color: #212121;
+
+  }
+  .name-6{
+    /* Inspiration has no Borders */
+
+
+position: absolute;
+width: 322px;
+height: 36px;
+left: 1039px;
+top: 1010px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 700;
+font-size: 18px;
+line-height: 36px;
+/* identical to box height, or 200% */
+
+letter-spacing: 0.06em;
+
+color: #212121;
+
+  }
+  .name-7{
+    /* Видання Limited Edition */
+
+
+position: absolute;
+width: 322px;
+height: 36px;
+left: 239px;
+top: 1444px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 700;
+font-size: 18px;
+line-height: 36px;
+/* identical to box height, or 200% */
+
+letter-spacing: 0.06em;
+
+color: #212121;
+  }
+  .name-8{
+    /* Проєкт LAB */
+
+
+position: absolute;
+width: 322px;
+height: 36px;
+left: 639px;
+top: 1444px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 700;
+font-size: 18px;
+line-height: 36px;
+/* identical to box height, or 200% */
+
+letter-spacing: 0.06em;
+
+color: #212121;
+  }
+  .name-9{
+    /* Growing Business */
+
+
+position: absolute;
+width: 322px;
+height: 36px;
+left: 1039px;
+top: 1444px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 700;
+font-size: 18px;
+line-height: 36px;
+/* identical to box height, or 200% */
+
+letter-spacing: 0.06em;
+
+color: #212121;
+
+  }
+  .text-1{
+    /* Веб-сайт */
+
+
+    position: absolute;
+    width: 322px;
+    height: 30px;
+    left: 239px;
+    top: 616px;
+    
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 30px;
+    /* identical to box height, or 188% */
+    
+    letter-spacing: 0.03em;
+    
+    color: #757575;}
+  .text-2{/* Дизайн */
+
+
+position: absolute;
+width: 322px;
+height: 30px;
+left: 639px;
+top: 616px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 30px;
+/* identical to box height, or 188% */
+
+letter-spacing: 0.03em;
+
+color: #757575;}
+  
+
+  .text-3{
+    /* Додаток */
+
+
+position: absolute;
+width: 322px;
+height: 30px;
+left: 1039px;
+top: 616px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 30px;
+/* identical to box height, or 188% */
+
+letter-spacing: 0.03em;
+
+color: #757575;
+
+  }
+  .text-4{
+    /* Маркетинг */
+
+
+position: absolute;
+width: 322px;
+height: 30px;
+left: 239px;
+top: 1050px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 30px;
+/* identical to box height, or 188% */
+
+letter-spacing: 0.03em;
+
+color: #757575;
+
+  }
+  .text-5{
+    /* Додаток */
+
+
+position: absolute;
+width: 322px;
+height: 30px;
+left: 639px;
+top: 1050px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 30px;
+/* identical to box height, or 188% */
+
+letter-spacing: 0.03em;
+
+color: #757575;
+
+  }
+  .text-6{  /* Веб-сайт */
+
+
+position: absolute;
+width: 322px;
+height: 30px;
+left: 1039px;
+top: 1050px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 30px;
+/* identical to box height, or 188% */
+
+letter-spacing: 0.03em;
+
+color: #757575;}
+
+
+  .text-7{
+    /* Дизайн */
+
+
+    position: absolute;
+    width: 322px;
+    height: 30px;
+    left: 239px;
+    top: 1484px;
+    
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 30px;
+    /* identical to box height, or 188% */
+    
+    letter-spacing: 0.03em;
+    
+    color: #757575;}
+  .text-8{/* Маркетинг */
+
+
+    position: absolute;
+    width: 322px;
+    height: 30px;
+    left: 639px;
+    top: 1484px;
+    
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 30px;
+    /* identical to box height, or 188% */
+    
+    letter-spacing: 0.03em;
+    
+    color: #757575;}
+  .text-9{
+    /* Додаток */
+
+
+position: absolute;
+width: 322px;
+height: 30px;
+left: 1039px;
+top: 1484px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 30px;
+/* identical to box height, or 188% */
+
+letter-spacing: 0.03em;
+
+color: #757575;
+
+  }
+  .footer {
+    /* Footer bg */
+    margin-top: 10px;
+    margin-left: 10px;
+margin-right: 10px;
+margin-bottom: 10px;
+    padding-left: 215px;
+    padding-right: 200px;
+    padding-top: 141px;
+
+    position: absolute;
+    width: 1200px;
+    height: 254px;
+    left: 0px;
+    top: 2094px;
+  
+    background: #2f303a;
+  }
+  
+  .logo12 {
+    font-family: "Raleway";
+    font-style: normal;
+    font-weight: 700;
+    font-size: 26px;
+    line-height: 31px;
+    /* identical to box height */
+  
+    letter-spacing: 0.03em;
+  
+    color: #2196f3;
+  }
+  
+  .logo2 {
+    color: #ffffff;
+  }
+  
+  .adress {
+    /* м. Київ, пр-т Лесі Українки, 26 */
+   
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 24px;
+  /* or 171% */
+  
+  letter-spacing: 0.03em;
+  
+  color: #FFFFFF;
+  }
+  .mail {
+      font-family: 'Roboto';
+      font-style: normal;
+      font-weight: 400;
+      font-size: 14px;
+      line-height: 24px;
+    /* or 171% */
+  
+    letter-spacing: 0.03em;
+  
+    color: rgba(255, 255, 255, 0.6);
+  }
+  .tell {
+      font-family: 'Roboto';
+      font-style: normal;
+      font-weight: 400;
+      font-size: 14px;
+      line-height: 24px;
+    /* or 171% */
+  
+    letter-spacing: 0.03em;
+  
+    color: rgba(255, 255, 255, 0.6);
+  }
+  
