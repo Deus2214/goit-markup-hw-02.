@@ -168,7 +168,6 @@
   color: #fff;
 }
 
-
 .main-title {
   /* Особливості */
 
@@ -624,7 +623,7 @@
 }
 .footer {
   /* Footer bg */
-  
+
   padding-left: 215px;
   padding-right: 200px;
   padding-top: 141px;
@@ -657,24 +656,24 @@
 
 .adress {
   /* м. Київ, пр-т Лесі Українки, 26 */
- 
-font-family: 'Roboto';
-font-style: normal;
-font-weight: 400;
-font-size: 14px;
-line-height: 24px;
-/* or 171% */
 
-letter-spacing: 0.03em;
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 24px;
+  /* or 171% */
 
-color: #FFFFFF;
+  letter-spacing: 0.03em;
+
+  color: #ffffff;
 }
 .mail {
-    font-family: 'Roboto';
-    font-style: normal;
-    font-weight: 400;
-    font-size: 14px;
-    line-height: 24px;
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 24px;
   /* or 171% */
 
   letter-spacing: 0.03em;
@@ -682,14 +681,17 @@ color: #FFFFFF;
   color: rgba(255, 255, 255, 0.6);
 }
 .tell {
-    font-family: 'Roboto';
-    font-style: normal;
-    font-weight: 400;
-    font-size: 14px;
-    line-height: 24px;
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 24px;
   /* or 171% */
 
   letter-spacing: 0.03em;
 
   color: rgba(255, 255, 255, 0.6);
+}
+.list {
+  list-style: none;
 }
