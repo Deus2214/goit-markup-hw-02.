@@ -386,27 +386,31 @@
 }
 
 .maintitle-2 {
-  /* Наша команда */
+ /* Наша команда */
 
-  position: absolute;
-  width: 264px;
-  height: 42px;
-  left: 668px;
-  top: 1540px;
 
-  font-family: "Roboto";
-  font-style: normal;
-  font-weight: 700;
-  font-size: 36px;
-  line-height: 42px;
-  text-align: center;
-  letter-spacing: 0.03em;
+position: absolute;
+width: 264px;
+height: 42px;
+left: 668px;
+top: 1540px;
 
-  color: #212121;
+
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 700;
+font-size: 36px;
+line-height: 42px;
+text-align: center;
+letter-spacing: 0.03em;
+
+color: #212121;
+
 }
 .img-5 {
   /* img */
-
+padding-top: 100px;
   position: absolute;
   width: 270px;
   height: 260px;
@@ -419,7 +423,7 @@
 
 .img-6 {
   /* img */
-
+  padding-top: 100px;
   position: absolute;
   width: 270px;
   height: 260px;
@@ -430,6 +434,7 @@
   border-radius: 0px;
 }
 .img-7 {
+  padding-top: 100px;
   position: absolute;
   width: 270px;
   height: 260px;
@@ -441,7 +446,7 @@
 }
 .img-8 {
   /* img */
-
+  padding-top: 100px;
   position: absolute;
   width: 270px;
   height: 260px;
@@ -453,7 +458,7 @@
 }
 .section-title {
   /* Ігор Дем'яненко */
-
+  padding-top: 100px;
   position: absolute;
   width: 129px;
   height: 19px;
@@ -474,7 +479,7 @@
 }
 .section-title2 {
   /* Ольга Рєпіна */
-
+  padding-top: 100px;
   position: absolute;
   width: 104px;
   height: 19px;
@@ -495,7 +500,7 @@
 }
 .section-title3 {
   /* Микола Тарасов */
-
+  padding-top: 100px;
   position: absolute;
   width: 130px;
   height: 19px;
@@ -516,7 +521,7 @@
 }
 .section-title4 {
   /* Михайло Єрмаков */
-
+  padding-top: 100px;
   position: absolute;
   width: 145px;
   height: 19px;
@@ -537,7 +542,7 @@
 }
 .work-1 {
   /* Product Designer */
-
+  padding-top: 100px;
   position: absolute;
   width: 130px;
   height: 19px;
@@ -558,7 +563,7 @@
 }
 .work-2 {
   /* Frontend Developer */
-
+  padding-top: 100px;
   position: absolute;
   width: 147px;
   height: 19px;
@@ -579,7 +584,7 @@
 }
 .work-3 {
   /* Marketing */
-
+  padding-top: 100px;
   margin-top: 30px;
   position: absolute;
   width: 76px;
@@ -601,7 +606,7 @@
 }
 .work-4 {
   /* UI Designer */
-
+  padding-top: 100px;
   margin-top: 30px;
   position: absolute;
   width: 87px;
@@ -623,16 +628,17 @@
 }
 .footer {
   /* Footer bg */
-
+ 
   padding-left: 215px;
   padding-right: 200px;
-  padding-top: 141px;
+  padding-top:  241px;
+  
 
   position: absolute;
   width: 1200px;
-  height: 254px;
+  height: 251px;
   left: 0px;
-  top: 2094px;
+  top: 2194px;
 
   background: #2f303a;
 }
