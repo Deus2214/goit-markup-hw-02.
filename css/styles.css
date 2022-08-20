@@ -1,6 +1,8 @@
+.head{ text-decoration: none}
 .body {
   background-color: #fff;
-  font-family: "Roboto";
+  font-family: 'Raleway', sans-serif;
+  font-family: 'Roboto', sans-serif;
 }
 
 .header {
@@ -92,6 +94,8 @@
   color: #ffffff;
 }
 .button {
+font-size: ;
+ font-size: 0ch;
   background: #2196f3;
   box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.15);
   border-radius: 4px;
@@ -308,8 +312,7 @@
 .work-1 {
   /* Product Designer */
 
-  font-weight: 400;
-  font-size: 16px;
+
   line-height: 1.2;
   /* identical to box height */
 
@@ -321,8 +324,7 @@
 .work-2 {
   /* Frontend Developer */
 
-  font-weight: 400;
-  font-size: 16px;
+  
   line-height: 1.2;
   /* identical to box height */
 
@@ -334,8 +336,7 @@
 .work-3 {
   /* Marketing */
 
-  font-weight: 400;
-  font-size: 16px;
+ 
   line-height: 1.2;
   /* identical to box height */
 
@@ -347,8 +348,7 @@
 .work-4 {
   /* UI Designer */
 
-  font-weight: 400;
-  font-size: 16px;
+ 
   line-height: 1.2;
   /* identical to box height */
 
