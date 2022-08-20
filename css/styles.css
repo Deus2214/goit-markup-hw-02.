@@ -5,16 +5,12 @@
 
 .header {
   /* top line bg */
-  
-  background: #ffffff;
 
+  background: #ffffff;
 }
 .logo {
   color: #2196f3;
-  
 
- 
-  
   font-weight: 700;
   font-size: 26px;
   line-height: 1.2;
@@ -38,9 +34,6 @@
   color: #2196f3;
 }
 .item-1 {
-  
-
-  
   font-weight: 500;
   font-size: 14px;
   line-height: 1.2;
@@ -51,7 +44,6 @@
 .item-2 {
   /* Контакти */
 
-  
   font-weight: 500;
   font-size: 14px;
   line-height: 1.2;
@@ -62,7 +54,6 @@
 .item-3 {
   /* info@devstudio.com */
 
-  
   font-weight: 500;
   font-size: 14px;
   line-height: 1.2;
@@ -74,8 +65,6 @@
 .item-4 {
   /* +38 096 111 11 11 */
 
-
-  
   font-weight: 500;
   font-size: 14px;
   line-height: 1.2;
@@ -85,16 +74,12 @@
 }
 .section-1 {
   /* Bg */
- 
 
   background: #2f303a;
 }
 .title {
   /* Ефективні рішення для вашого бізнесу */
 
- 
-
-  
   font-weight: 900;
   font-size: 44px;
   line-height: 2.4;
@@ -107,8 +92,6 @@
   color: #ffffff;
 }
 .button {
-  
-
   background: #2196f3;
   box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.15);
   border-radius: 4px;
@@ -117,14 +100,10 @@
 
 .main-title {
   /* Особливості */
-
 }
 .uppertitle {
   /* УВАГА ДО ДЕТАЛЕЙ */
 
- 
-
-  
   font-weight: 700;
   font-size: 14px;
   line-height: 1.2;
@@ -136,9 +115,6 @@
 .uppertitle-2 {
   /* ПУНКТУАЛЬНІСТЬ */
 
- 
-
-  
   font-weight: 700;
   font-size: 14px;
   line-height: 1.2;
@@ -150,9 +126,6 @@
 .uppertitle-3 {
   /* ПЛАНУВАННЯ */
 
-  
-
-  
   font-weight: 700;
   font-size: 14px;
   line-height: 1.2;
@@ -164,8 +137,6 @@
 .uppertitle-4 {
   /* СУЧАСНІ ТЕХНОЛОГІЇ */
 
-
-  
   font-weight: 700;
   font-size: 14px;
   line-height: 1.2;
@@ -177,9 +148,6 @@
 .text {
   /* Ідейні міркування, і навіть початок повсякденної роботи з формування позиції. */
 
-  
-
- 
   font-weight: 400;
   font-size: 14px;
   line-height: 1.2;
@@ -190,9 +158,6 @@
   color: #757575;
 }
 .text-1 {
- 
-
-  
   font-weight: 400;
   font-size: 14px;
   line-height: 1.2;
@@ -204,8 +169,6 @@
 }
 .text-2 {
   /* Так само консультація з широким активом значною мірою зумовлює. */
-
- 
 
   font-weight: 400;
   font-size: 14px;
@@ -219,8 +182,6 @@
 .text-3 {
   /* Значимість цих проблем настільки очевидна, що реалізація планових завдань. */
 
- 
-
   font-weight: 400;
   font-size: 14px;
   line-height: 1.2;
@@ -233,9 +194,6 @@
 .paragraph {
   /* Чим ми займаємося */
 
-  
-
-  
   font-weight: 700;
   font-size: 36px;
   line-height: 2.4;
@@ -247,47 +205,33 @@
 .img-1 {
   /* img */
 
- 
-
   background: url(close-up-image-programer-working-his-desk-office_1098-18707.jpg);
   mix-blend-mode: normal;
 }
 .img-2 {
   /* img */
 
- 
-
   background: url(web-ui-designers-are-developing-application-smartphones-team-creators-is-working-interface-mobile-phones_8119-2713.jpg);
 }
 .img-3 {
   /* img */
 
- 
-
   background: url(creative-artist-web-design-with-working-colour-selection-graphic-tablet_35674-1119.jpg);
 }
 
 .maintitle-2 {
- /* Наша команда */
+  /* Наша команда */
 
+  font-weight: 700;
+  font-size: 36px;
+  line-height: 2.4;
+  text-align: center;
+  letter-spacing: 0.03em;
 
-
-
-
-
-
-font-weight: 700;
-font-size: 36px;
-line-height: 2.4;
-text-align: center;
-letter-spacing: 0.03em;
-
-color: #212121;
-
+  color: #212121;
 }
 .img-5 {
   /* img */
-
 
   background: url(2968.jpg);
   border-radius: 0px;
@@ -295,29 +239,22 @@ color: #212121;
 
 .img-6 {
   /* img */
- background: url(5844.jpg);
+  background: url(5844.jpg);
   border-radius: 0px;
-
- 
 }
 .img-7 {
-  
   background: url(16166.jpg);
   border-radius: 0px;
-  
 }
 .img-8 {
   /* img */
-  
 
   background: url(4853.jpg);
   border-radius: 0px;
 }
 .section-title {
   /* Ігор Дем'яненко */
- 
 
- 
   font-weight: 500;
   font-size: 16px;
   line-height: 1.2;
@@ -330,20 +267,6 @@ color: #212121;
 }
 .section-title2 {
   /* Ольга Рєпіна */
- 
-  font-weight: 500;
-  font-size: 16px;
-  line-height: 1.2;
-  /* identical to box height */
-
-  text-align: center;
-  letter-spacing: 0.03em;
-
-  color: #212121;}
-
-.section-title3 {
-  /* Микола Тарасов */
- 
 
   font-weight: 500;
   font-size: 16px;
@@ -354,13 +277,24 @@ color: #212121;
   letter-spacing: 0.03em;
 
   color: #212121;
- 
+}
+
+.section-title3 {
+  /* Микола Тарасов */
+
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.2;
+  /* identical to box height */
+
+  text-align: center;
+  letter-spacing: 0.03em;
+
+  color: #212121;
 }
 .section-title4 {
   /* Михайло Єрмаков */
- 
 
-  
   font-weight: 500;
   font-size: 16px;
   line-height: 1.2;
@@ -373,9 +307,7 @@ color: #212121;
 }
 .work-1 {
   /* Product Designer */
- 
 
- 
   font-weight: 400;
   font-size: 16px;
   line-height: 1.2;
@@ -388,9 +320,7 @@ color: #212121;
 }
 .work-2 {
   /* Frontend Developer */
- 
 
-  
   font-weight: 400;
   font-size: 16px;
   line-height: 1.2;
@@ -403,7 +333,7 @@ color: #212121;
 }
 .work-3 {
   /* Marketing */
- 
+
   font-weight: 400;
   font-size: 16px;
   line-height: 1.2;
@@ -416,7 +346,7 @@ color: #212121;
 }
 .work-4 {
   /* UI Designer */
- 
+
   font-weight: 400;
   font-size: 16px;
   line-height: 1.2;
@@ -429,16 +359,11 @@ color: #212121;
 }
 .footer {
   /* Footer bg */
- 
-  
-
- 
 
   background: #2f303a;
 }
 
 .logo12 {
- 
   font-weight: 700;
   font-size: 26px;
   line-height: 1.5;
@@ -468,7 +393,6 @@ color: #212121;
   color: #ffffff;
 }
 .mail {
- 
   font-weight: 400;
   font-size: 14px;
   line-height: 1.2;
@@ -479,7 +403,6 @@ color: #212121;
   color: rgba(255, 255, 255, 0.6);
 }
 .tell {
- 
   font-weight: 400;
   font-size: 14px;
   line-height: 1.2;
