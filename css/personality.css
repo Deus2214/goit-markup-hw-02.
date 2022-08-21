@@ -1,7 +1,7 @@
 .body {
   /* Портфоліо */
-  font-family: 'Roboto';
- 
+  font-family: "Roboto";
+
   text-decoration: none;
 
   background: #ffffff;
@@ -9,18 +9,16 @@
 .header {
   /* top line bg */
   text-decoration: none;
-  
 
   background: #ffffff;
 }
-.list{ list-style: none;
+.list {
+  list-style: none;
 }
 .logo-web {
   /* WebStudio */
   text-decoration: none;
- 
 
- 
   font-style: normal;
   font-weight: 700;
   font-size: 26px;
@@ -39,7 +37,6 @@
 .current {
   /* Студія */
   text-decoration: none;
- 
 
   font-style: normal;
   font-weight: 500;
@@ -52,9 +49,7 @@
 .current-2 {
   /* Портфоліо */
   text-decoration: none;
- 
 
-  
   font-style: normal;
   font-weight: 500;
   font-size: 14px;
@@ -66,9 +61,7 @@
 .current-3 {
   /* Контакти */
   text-decoration: none;
- 
 
- 
   font-style: normal;
   font-weight: 500;
   font-size: 14px;
@@ -81,9 +74,7 @@
 .current-4 {
   /* info@devstudio.com */
   text-decoration: none;
- 
 
- 
   font-style: normal;
   font-weight: 500;
   font-size: 14px;
@@ -95,9 +86,7 @@
 .current-5 {
   /* +38 096 111 11 11 */
   text-decoration: none;
-  
 
- 
   font-style: normal;
   font-weight: 500;
   font-size: 14px;
@@ -113,7 +102,6 @@
 .button {
   /* Rectangle 10 */
 
- 
   color: #ffffff;
   background: #2196f3;
   /* shadow-middle */
@@ -126,10 +114,6 @@
 .title-2 {
   /* Веб-сайти */
 
- 
-
- 
-  
   font-weight: 500;
   font-size: 16px;
   line-height: 1.4;
@@ -144,10 +128,6 @@
 .title-3 {
   /* Додатки */
 
-  
-
-
- 
   font-weight: 500;
   font-size: 16px;
   line-height: 26px;
@@ -162,10 +142,6 @@
 .title-4 {
   /* Дизайн */
 
-  
-
-
- 
   font-weight: 500;
   font-size: 16px;
   line-height: 26px;
@@ -179,10 +155,6 @@
 .title-5 {
   /* Маркетинг */
 
- 
-
-  
- 
   font-weight: 500;
   font-size: 16px;
   line-height: 1.4;
@@ -199,21 +171,16 @@
 .img-1 {
   /* img */
 
-  
-
   background: url(portfolio1.jpg);
 }
 .img-2 {
   /* img */
-
-  
 
   background: url(portfolio2.jpg);
 }
 .img-3 {
   /* img */
 
- 
   background: url(portfolio-1.jpg);
 }
 .img-4 {
@@ -224,45 +191,33 @@
 .img-5 {
   /* img */
 
- 
-
   background: url(portfolio5.jpg);
 }
 .img-6 {
   /* img */
-
- 
 
   background: url(111.jpg);
 }
 .img-7 {
   /* img */
 
-  
-
   background: url(portfolio7.jpg);
 }
 .img-8 {
   /* img */
 
-  
   background: url(portfolio8.jpg);
 }
 
 .img-9 {
   /* img */
 
- 
   background: url(2910404.jpg);
 }
 
 .name-1 {
   /* Технокряк */
 
-  
-
-  
- 
   font-weight: 700;
   font-size: 18px;
   line-height: 2.4;
@@ -275,10 +230,6 @@
 .name-2 {
   /* Постер New Orlean vs Golden Star */
 
- 
-
-
- 
   font-weight: 700;
   font-size: 18px;
   line-height: 2.4;
@@ -291,10 +242,6 @@
 .name-3 {
   /* Ресторан Seafood */
 
-  
-
- 
- 
   font-weight: 700;
   font-size: 18px;
   line-height: 2.4;
@@ -306,10 +253,6 @@
 }
 .name-4 {
   /* Проєкт Prime */
-
-  
-
- 
 
   font-weight: 700;
   font-size: 18px;
@@ -323,10 +266,6 @@
 .name-5 {
   /* Проєкт Boxes */
 
-  
-
- 
-  
   font-weight: 700;
   font-size: 18px;
   line-height: 2.4;
@@ -339,9 +278,6 @@
 .name-6 {
   /* Inspiration has no Borders */
 
- 
-
- 
   font-weight: 700;
   font-size: 18px;
   line-height: 2.4;
@@ -353,10 +289,6 @@
 }
 .name-7 {
   /* Видання Limited Edition */
-
-  
-
-
 
   font-weight: 700;
   font-size: 18px;
@@ -370,10 +302,6 @@
 .name-8 {
   /* Проєкт LAB */
 
-
-
- 
-
   font-weight: 700;
   font-size: 18px;
   line-height: 2;
@@ -385,10 +313,6 @@
 }
 .name-9 {
   /* Growing Business */
-
- 
-
- 
 
   font-weight: 700;
   font-size: 18px;
@@ -402,10 +326,6 @@
 .text-1 {
   /* Веб-сайт */
 
- 
-
- 
-
   font-weight: 400;
   font-size: 16px;
   line-height: 2;
@@ -418,10 +338,6 @@
 .text-2 {
   /* Дизайн */
 
- 
-
-  
-  
   font-weight: 400;
   font-size: 16px;
   line-height: 2;
@@ -435,9 +351,6 @@
 .text-3 {
   /* Додаток */
 
-  
-
- 
   font-weight: 400;
   font-size: 16px;
   line-height: 2;
@@ -449,10 +362,6 @@
 }
 .text-4 {
   /* Маркетинг */
-
- 
-
-
 
   font-weight: 400;
   font-size: 16px;
@@ -466,10 +375,6 @@
 .text-5 {
   /* Додаток */
 
- 
-
- 
- 
   font-weight: 400;
   font-size: 16px;
   line-height: 2;
@@ -482,9 +387,6 @@
 .text-6 {
   /* Веб-сайт */
 
-
- 
- 
   font-weight: 400;
   font-size: 16px;
   line-height: 2;
@@ -498,8 +400,6 @@
 .text-7 {
   /* Дизайн */
 
-  
-
   font-weight: 400;
   font-size: 16px;
   line-height: 2;
@@ -512,9 +412,6 @@
 .text-8 {
   /* Маркетинг */
 
- 
-
- 
   font-weight: 400;
   font-size: 16px;
   line-height: 2;
@@ -527,9 +424,6 @@
 .text-9 {
   /* Додаток */
 
-  
-
- 
   font-weight: 400;
   font-size: 16px;
   line-height: 2;
@@ -541,16 +435,11 @@
 }
 .footer {
   /* Footer bg */
-  
-
-  
 
   background: #2f303a;
 }
 
 .logo12 {
- 
-  
   font-weight: 700;
   font-size: 26px;
   line-height: 2;
@@ -564,14 +453,15 @@
 .logo2 {
   color: #ffffff;
 }
-.adress{ 
+.adress {
   font-family: "Raleway";
-  font-style: normal;}
+  font-style: normal;
+}
 .adress-1 {
   /* м. Київ, пр-т Лесі Українки, 26 */
   text-decoration: none;
   font-family: "Raleway";
- 
+
   font-weight: 400;
   font-size: 14px;
   line-height: 1.4;
@@ -583,7 +473,6 @@
 }
 .mail {
   text-decoration: none;
-  
 
   font-weight: 400;
   font-size: 14px;
@@ -596,8 +485,7 @@
 }
 .tell {
   text-decoration: none;
- 
-  
+
   font-weight: 400;
   font-size: 14px;
   line-height: 1.4;
