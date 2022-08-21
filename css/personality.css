@@ -1,33 +1,26 @@
 .body {
   /* Портфоліо */
-
-  position: relative;
-  width: 1600px;
-  height: 1880px;
+  font-family: 'Roboto';
+ 
+  text-decoration: none;
 
   background: #ffffff;
 }
 .header {
   /* top line bg */
-
-  position: absolute;
-  width: 1600px;
-  height: 80px;
-  left: 0px;
-  top: 0px;
+  text-decoration: none;
+  
 
   background: #ffffff;
 }
+.list{ list-style: none;
+}
 .logo-web {
   /* WebStudio */
+  text-decoration: none;
+ 
 
-  position: absolute;
-  width: 145px;
-  height: 31px;
-  left: 215px;
-  top: 24px;
-
-  font-family: "Raleway";
+ 
   font-style: normal;
   font-weight: 700;
   font-size: 26px;
@@ -40,18 +33,14 @@
 }
 .logo-studio {
   color: #000000;
+  text-decoration: none;
 }
 
 .current {
   /* Студія */
+  text-decoration: none;
+ 
 
-  position: absolute;
-  width: 45px;
-  height: 16px;
-  left: 453px;
-  top: 32px;
-
-  font-family: "Roboto";
   font-style: normal;
   font-weight: 500;
   font-size: 14px;
@@ -62,14 +51,10 @@
 }
 .current-2 {
   /* Портфоліо */
+  text-decoration: none;
+ 
 
-  position: absolute;
-  width: 72px;
-  height: 16px;
-  left: 548px;
-  top: 32px;
-
-  font-family: "Roboto";
+  
   font-style: normal;
   font-weight: 500;
   font-size: 14px;
@@ -80,14 +65,10 @@
 }
 .current-3 {
   /* Контакти */
+  text-decoration: none;
+ 
 
-  position: absolute;
-  width: 64px;
-  height: 16px;
-  left: 670px;
-  top: 32px;
-
-  font-family: "Roboto";
+ 
   font-style: normal;
   font-weight: 500;
   font-size: 14px;
@@ -99,14 +80,10 @@
 
 .current-4 {
   /* info@devstudio.com */
+  text-decoration: none;
+ 
 
-  position: absolute;
-  width: 135px;
-  height: 16px;
-  left: 1078px;
-  top: 32px;
-
-  font-family: "Roboto";
+ 
   font-style: normal;
   font-weight: 500;
   font-size: 14px;
@@ -117,14 +94,10 @@
 }
 .current-5 {
   /* +38 096 111 11 11 */
+  text-decoration: none;
+  
 
-  position: absolute;
-  width: 122px;
-  height: 16px;
-  left: 1263px;
-  top: 32px;
-
-  font-family: "Roboto";
+ 
   font-style: normal;
   font-weight: 500;
   font-size: 14px;
@@ -140,11 +113,7 @@
 .button {
   /* Rectangle 10 */
 
-  position: absolute;
-  width: 73px;
-  height: 38px;
-  left: 512px;
-  top: 174px;
+ 
   color: #ffffff;
   background: #2196f3;
   /* shadow-middle */
@@ -157,14 +126,10 @@
 .title-2 {
   /* Веб-сайти */
 
-  position: absolute;
-  width: 81px;
-  height: 26px;
-  left: 615px;
-  top: 180px;
+ 
 
-  font-family: "Roboto";
-  font-style: normal;
+ 
+  
   font-weight: 500;
   font-size: 16px;
   line-height: 26px;
@@ -179,14 +144,10 @@
 .title-3 {
   /* Додатки */
 
-  position: absolute;
-  width: 68px;
-  height: 26px;
-  left: 748px;
-  top: 180px;
+  
 
-  font-family: "Roboto";
-  font-style: normal;
+
+ 
   font-weight: 500;
   font-size: 16px;
   line-height: 26px;
@@ -201,14 +162,10 @@
 .title-4 {
   /* Дизайн */
 
-  position: absolute;
-  width: 59px;
-  height: 26px;
-  left: 868px;
-  top: 180px;
+  
 
-  font-family: "Roboto";
-  font-style: normal;
+
+ 
   font-weight: 500;
   font-size: 16px;
   line-height: 26px;
@@ -222,14 +179,10 @@
 .title-5 {
   /* Маркетинг */
 
-  position: absolute;
-  width: 86px;
-  height: 26px;
-  left: 979px;
-  top: 180px;
+ 
 
-  font-family: "Roboto";
-  font-style: normal;
+  
+ 
   font-weight: 500;
   font-size: 16px;
   line-height: 26px;
@@ -246,115 +199,70 @@
 .img-1 {
   /* img */
 
-  position: absolute;
-  width: 370px;
-  height: 294px;
-  left: 215px;
-  top: 262px;
+  
 
   background: url(portfolio1.jpg);
 }
 .img-2 {
   /* img */
 
-  position: absolute;
-  width: 370px;
-  height: 294px;
-  left: 615px;
-  top: 262px;
+  
 
   background: url(portfolio2.jpg);
 }
 .img-3 {
   /* img */
 
-  position: absolute;
-  width: 370px;
-  height: 294px;
-  left: 1015px;
-  top: 262px;
-
+ 
   background: url(portfolio-1.jpg);
 }
 .img-4 {
   /* img */
-
-  position: absolute;
-  width: 370px;
-  height: 294px;
-  left: 215px;
-  top: 696px;
 
   background: url(portfolio-2.jpg);
 }
 .img-5 {
   /* img */
 
-  position: absolute;
-  width: 370px;
-  height: 294px;
-  left: 615px;
-  top: 696px;
+ 
 
   background: url(portfolio5.jpg);
 }
 .img-6 {
   /* img */
 
-  position: absolute;
-  width: 370px;
-  height: 294px;
-  left: 1015px;
-  top: 696px;
+ 
 
   background: url(111.jpg);
 }
 .img-7 {
   /* img */
 
-  position: absolute;
-  width: 370px;
-  height: 294px;
-  left: 215px;
-  top: 1130px;
+  
 
   background: url(portfolio7.jpg);
 }
 .img-8 {
   /* img */
 
-  position: absolute;
-  width: 370px;
-  height: 294px;
-  left: 615px;
-  top: 1130px;
-
+  
   background: url(portfolio8.jpg);
 }
 
 .img-9 {
   /* img */
 
-  position: absolute;
-  width: 370px;
-  height: 294px;
-  left: 1015px;
-  top: 1130px;
-
+ 
   background: url(2910404.jpg);
 }
 
 .name-1 {
   /* Технокряк */
 
-  position: absolute;
-  width: 322px;
-  height: 36px;
-  left: 239px;
-  top: 576px;
+  
 
-  font-family: "Roboto";
-  font-style: normal;
+  
+ 
   font-weight: 700;
   font-size: 18px;
   line-height: 36px;
@@ -367,14 +275,10 @@
 .name-2 {
   /* Постер New Orlean vs Golden Star */
 
-  position: absolute;
-  width: 322px;
-  height: 36px;
-  left: 639px;
-  top: 576px;
+ 
 
-  font-family: "Roboto";
-  font-style: normal;
+
+ 
   font-weight: 700;
   font-size: 18px;
   line-height: 36px;
@@ -387,14 +291,10 @@
 .name-3 {
   /* Ресторан Seafood */
 
-  position: absolute;
-  width: 322px;
-  height: 36px;
-  left: 1039px;
-  top: 576px;
+  
 
-  font-family: "Roboto";
-  font-style: normal;
+ 
+ 
   font-weight: 700;
   font-size: 18px;
   line-height: 36px;
@@ -407,14 +307,10 @@
 .name-4 {
   /* Проєкт Prime */
 
-  position: absolute;
-  width: 322px;
-  height: 36px;
-  left: 239px;
-  top: 1010px;
+  
 
-  font-family: "Roboto";
-  font-style: normal;
+ 
+
   font-weight: 700;
   font-size: 18px;
   line-height: 36px;
@@ -427,14 +323,10 @@
 .name-5 {
   /* Проєкт Boxes */
 
-  position: absolute;
-  width: 322px;
-  height: 36px;
-  left: 639px;
-  top: 1010px;
+  
 
-  font-family: "Roboto";
-  font-style: normal;
+ 
+  
   font-weight: 700;
   font-size: 18px;
   line-height: 36px;
@@ -447,14 +339,9 @@
 .name-6 {
   /* Inspiration has no Borders */
 
-  position: absolute;
-  width: 322px;
-  height: 36px;
-  left: 1039px;
-  top: 1010px;
+ 
 
-  font-family: "Roboto";
-  font-style: normal;
+ 
   font-weight: 700;
   font-size: 18px;
   line-height: 36px;
@@ -467,14 +354,10 @@
 .name-7 {
   /* Видання Limited Edition */
 
-  position: absolute;
-  width: 322px;
-  height: 36px;
-  left: 239px;
-  top: 1444px;
+  
 
-  font-family: "Roboto";
-  font-style: normal;
+
+
   font-weight: 700;
   font-size: 18px;
   line-height: 36px;
@@ -487,14 +370,10 @@
 .name-8 {
   /* Проєкт LAB */
 
-  position: absolute;
-  width: 322px;
-  height: 36px;
-  left: 639px;
-  top: 1444px;
 
-  font-family: "Roboto";
-  font-style: normal;
+
+ 
+
   font-weight: 700;
   font-size: 18px;
   line-height: 36px;
@@ -507,14 +386,10 @@
 .name-9 {
   /* Growing Business */
 
-  position: absolute;
-  width: 322px;
-  height: 36px;
-  left: 1039px;
-  top: 1444px;
+ 
 
-  font-family: "Roboto";
-  font-style: normal;
+ 
+
   font-weight: 700;
   font-size: 18px;
   line-height: 36px;
@@ -527,14 +402,10 @@
 .text-1 {
   /* Веб-сайт */
 
-  position: absolute;
-  width: 322px;
-  height: 30px;
-  left: 239px;
-  top: 616px;
+ 
 
-  font-family: "Roboto";
-  font-style: normal;
+ 
+
   font-weight: 400;
   font-size: 16px;
   line-height: 30px;
@@ -547,14 +418,10 @@
 .text-2 {
   /* Дизайн */
 
-  position: absolute;
-  width: 322px;
-  height: 30px;
-  left: 639px;
-  top: 616px;
+ 
 
-  font-family: "Roboto";
-  font-style: normal;
+  
+  
   font-weight: 400;
   font-size: 16px;
   line-height: 30px;
@@ -568,14 +435,9 @@
 .text-3 {
   /* Додаток */
 
-  position: absolute;
-  width: 322px;
-  height: 30px;
-  left: 1039px;
-  top: 616px;
+  
 
-  font-family: "Roboto";
-  font-style: normal;
+ 
   font-weight: 400;
   font-size: 16px;
   line-height: 30px;
@@ -588,14 +450,10 @@
 .text-4 {
   /* Маркетинг */
 
-  position: absolute;
-  width: 322px;
-  height: 30px;
-  left: 239px;
-  top: 1050px;
+ 
 
-  font-family: "Roboto";
-  font-style: normal;
+
+
   font-weight: 400;
   font-size: 16px;
   line-height: 30px;
@@ -608,14 +466,10 @@
 .text-5 {
   /* Додаток */
 
-  position: absolute;
-  width: 322px;
-  height: 30px;
-  left: 639px;
-  top: 1050px;
+ 
 
-  font-family: "Roboto";
-  font-style: normal;
+ 
+ 
   font-weight: 400;
   font-size: 16px;
   line-height: 30px;
@@ -628,14 +482,9 @@
 .text-6 {
   /* Веб-сайт */
 
-  position: absolute;
-  width: 322px;
-  height: 30px;
-  left: 1039px;
-  top: 1050px;
 
-  font-family: "Roboto";
-  font-style: normal;
+ 
+ 
   font-weight: 400;
   font-size: 16px;
   line-height: 30px;
@@ -649,14 +498,8 @@
 .text-7 {
   /* Дизайн */
 
-  position: absolute;
-  width: 322px;
-  height: 30px;
-  left: 239px;
-  top: 1484px;
+  
 
-  font-family: "Roboto";
-  font-style: normal;
   font-weight: 400;
   font-size: 16px;
   line-height: 30px;
@@ -669,14 +512,9 @@
 .text-8 {
   /* Маркетинг */
 
-  position: absolute;
-  width: 322px;
-  height: 30px;
-  left: 639px;
-  top: 1484px;
+ 
 
-  font-family: "Roboto";
-  font-style: normal;
+ 
   font-weight: 400;
   font-size: 16px;
   line-height: 30px;
@@ -689,14 +527,9 @@
 .text-9 {
   /* Додаток */
 
-  position: absolute;
-  width: 322px;
-  height: 30px;
-  left: 1039px;
-  top: 1484px;
+  
 
-  font-family: "Roboto";
-  font-style: normal;
+ 
   font-weight: 400;
   font-size: 16px;
   line-height: 30px;
@@ -708,26 +541,16 @@
 }
 .footer {
   /* Footer bg */
-  margin-top: 10px;
-  margin-left: 10px;
-  margin-right: 10px;
-  margin-bottom: 10px;
-  padding-left: 215px;
-  padding-right: 200px;
-  padding-top: 141px;
+  
 
-  position: absolute;
-  width: 1200px;
-  height: 254px;
-  left: 0px;
-  top: 2094px;
+  
 
   background: #2f303a;
 }
 
 .logo12 {
-  font-family: "Raleway";
-  font-style: normal;
+ 
+  
   font-weight: 700;
   font-size: 26px;
   line-height: 31px;
@@ -741,12 +564,14 @@
 .logo2 {
   color: #ffffff;
 }
-
-.adress {
+.adress{ 
+  font-family: "Raleway";
+  font-style: normal;}
+.adress-1 {
   /* м. Київ, пр-т Лесі Українки, 26 */
-
-  font-family: "Roboto";
-  font-style: normal;
+  text-decoration: none;
+  font-family: "Raleway";
+ 
   font-weight: 400;
   font-size: 14px;
   line-height: 24px;
@@ -757,8 +582,9 @@
   color: #ffffff;
 }
 .mail {
-  font-family: "Roboto";
-  font-style: normal;
+  text-decoration: none;
+  
+
   font-weight: 400;
   font-size: 14px;
   line-height: 24px;
@@ -769,8 +595,9 @@
   color: rgba(255, 255, 255, 0.6);
 }
 .tell {
-  font-family: "Roboto";
-  font-style: normal;
+  text-decoration: none;
+ 
+  
   font-weight: 400;
   font-size: 14px;
   line-height: 24px;
