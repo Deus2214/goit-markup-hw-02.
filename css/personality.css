@@ -24,7 +24,7 @@
   font-style: normal;
   font-weight: 700;
   font-size: 26px;
-  line-height: 31px;
+  line-height: 1.4;
   /* identical to box height */
 
   letter-spacing: 0.03em;
@@ -44,7 +44,7 @@
   font-style: normal;
   font-weight: 500;
   font-size: 14px;
-  line-height: 16px;
+  line-height: 1.2;
   letter-spacing: 0.02em;
 
   color: #212121;
@@ -58,7 +58,7 @@
   font-style: normal;
   font-weight: 500;
   font-size: 14px;
-  line-height: 16px;
+  line-height: 1.2;
   letter-spacing: 0.02em;
 
   color: #2196f3;
@@ -72,7 +72,7 @@
   font-style: normal;
   font-weight: 500;
   font-size: 14px;
-  line-height: 16px;
+  line-height: 1.2;
   letter-spacing: 0.02em;
 
   color: #212121;
@@ -87,7 +87,7 @@
   font-style: normal;
   font-weight: 500;
   font-size: 14px;
-  line-height: 16px;
+  line-height: 1.2;
   letter-spacing: 0.02em;
 
   color: #2196f3;
@@ -101,7 +101,7 @@
   font-style: normal;
   font-weight: 500;
   font-size: 14px;
-  line-height: 16px;
+  line-height: 1.2;
   letter-spacing: 0.02em;
 
   color: #757575;
@@ -132,7 +132,7 @@
   
   font-weight: 500;
   font-size: 16px;
-  line-height: 26px;
+  line-height: 1.4;
   /* identical to box height, or 162% */
 
   text-align: center;
@@ -185,7 +185,7 @@
  
   font-weight: 500;
   font-size: 16px;
-  line-height: 26px;
+  line-height: 1.4;
   /* identical to box height, or 162% */
 
   text-align: center;
@@ -265,7 +265,7 @@
  
   font-weight: 700;
   font-size: 18px;
-  line-height: 36px;
+  line-height: 2.4;
   /* identical to box height, or 200% */
 
   letter-spacing: 0.06em;
@@ -281,7 +281,7 @@
  
   font-weight: 700;
   font-size: 18px;
-  line-height: 36px;
+  line-height: 2.4;
   /* identical to box height, or 200% */
 
   letter-spacing: 0.06em;
@@ -297,7 +297,7 @@
  
   font-weight: 700;
   font-size: 18px;
-  line-height: 36px;
+  line-height: 2.4;
   /* identical to box height, or 200% */
 
   letter-spacing: 0.06em;
@@ -313,7 +313,7 @@
 
   font-weight: 700;
   font-size: 18px;
-  line-height: 36px;
+  line-height: 2.4;
   /* identical to box height, or 200% */
 
   letter-spacing: 0.06em;
@@ -329,7 +329,7 @@
   
   font-weight: 700;
   font-size: 18px;
-  line-height: 36px;
+  line-height: 2.4;
   /* identical to box height, or 200% */
 
   letter-spacing: 0.06em;
@@ -344,7 +344,7 @@
  
   font-weight: 700;
   font-size: 18px;
-  line-height: 36px;
+  line-height: 2.4;
   /* identical to box height, or 200% */
 
   letter-spacing: 0.06em;
@@ -360,7 +360,7 @@
 
   font-weight: 700;
   font-size: 18px;
-  line-height: 36px;
+  line-height: 2.4;
   /* identical to box height, or 200% */
 
   letter-spacing: 0.06em;
@@ -376,7 +376,7 @@
 
   font-weight: 700;
   font-size: 18px;
-  line-height: 36px;
+  line-height: 2;
   /* identical to box height, or 200% */
 
   letter-spacing: 0.06em;
@@ -392,7 +392,7 @@
 
   font-weight: 700;
   font-size: 18px;
-  line-height: 36px;
+  line-height: 2;
   /* identical to box height, or 200% */
 
   letter-spacing: 0.06em;
@@ -408,7 +408,7 @@
 
   font-weight: 400;
   font-size: 16px;
-  line-height: 30px;
+  line-height: 2;
   /* identical to box height, or 188% */
 
   letter-spacing: 0.03em;
@@ -424,7 +424,7 @@
   
   font-weight: 400;
   font-size: 16px;
-  line-height: 30px;
+  line-height: 2;
   /* identical to box height, or 188% */
 
   letter-spacing: 0.03em;
@@ -440,7 +440,7 @@
  
   font-weight: 400;
   font-size: 16px;
-  line-height: 30px;
+  line-height: 2;
   /* identical to box height, or 188% */
 
   letter-spacing: 0.03em;
@@ -456,7 +456,7 @@
 
   font-weight: 400;
   font-size: 16px;
-  line-height: 30px;
+  line-height: 2;
   /* identical to box height, or 188% */
 
   letter-spacing: 0.03em;
@@ -472,7 +472,7 @@
  
   font-weight: 400;
   font-size: 16px;
-  line-height: 30px;
+  line-height: 2;
   /* identical to box height, or 188% */
 
   letter-spacing: 0.03em;
@@ -487,7 +487,7 @@
  
   font-weight: 400;
   font-size: 16px;
-  line-height: 30px;
+  line-height: 2;
   /* identical to box height, or 188% */
 
   letter-spacing: 0.03em;
@@ -502,7 +502,7 @@
 
   font-weight: 400;
   font-size: 16px;
-  line-height: 30px;
+  line-height: 2;
   /* identical to box height, or 188% */
 
   letter-spacing: 0.03em;
@@ -517,7 +517,7 @@
  
   font-weight: 400;
   font-size: 16px;
-  line-height: 30px;
+  line-height: 2;
   /* identical to box height, or 188% */
 
   letter-spacing: 0.03em;
@@ -532,7 +532,7 @@
  
   font-weight: 400;
   font-size: 16px;
-  line-height: 30px;
+  line-height: 2;
   /* identical to box height, or 188% */
 
   letter-spacing: 0.03em;
@@ -553,7 +553,7 @@
   
   font-weight: 700;
   font-size: 26px;
-  line-height: 31px;
+  line-height: 2;
   /* identical to box height */
 
   letter-spacing: 0.03em;
@@ -574,7 +574,7 @@
  
   font-weight: 400;
   font-size: 14px;
-  line-height: 24px;
+  line-height: 1.4;
   /* or 171% */
 
   letter-spacing: 0.03em;
@@ -587,7 +587,7 @@
 
   font-weight: 400;
   font-size: 14px;
-  line-height: 24px;
+  line-height: 1.4;
   /* or 171% */
 
   letter-spacing: 0.03em;
@@ -600,7 +600,7 @@
   
   font-weight: 400;
   font-size: 14px;
-  line-height: 24px;
+  line-height: 1.4;
   /* or 171% */
 
   letter-spacing: 0.03em;
