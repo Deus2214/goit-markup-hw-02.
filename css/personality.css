@@ -99,17 +99,29 @@
   left: 1078px;
   right: 1078px;
 }
-.button {
-  /* Rectangle 10 */
 
-  color: #ffffff;
-  background: #2196f3;
-  /* shadow-middle */
 
-  box-shadow: 0px 3px 1px rgba(0, 0, 0, 0.1), 0px 1px 2px rgba(0, 0, 0, 0.08),
-    0px 2px 2px rgba(0, 0, 0, 0.12);
-  border-radius: 4px;
-}
+  .filters .button.button-item {
+     /* Rectangle 10 */
+    display: inline-block;
+    padding: 6px 22px;
+    border-radius: 4px;
+    min-height: 38px;
+    border: transparent;
+    color: var(--title-text-color);
+    background-color: var(--secondary-bg-color);
+    cursor: pointer;
+    font-family: inherit;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.62;
+    letter-spacing: inherit;
+  }
+  .filters .button:hover,
+  .filters .button:focus {
+    color: var(--white-text-color);
+    background-color: var(--accent-bg-color);
+  }
 
 .title-2 {
   /* Веб-сайти */
@@ -165,8 +177,7 @@
 
   color: #212121;
 }
-.list {
-  list-style: none;
+
 }
 .img-1 {
   /* img */
@@ -327,8 +338,8 @@
   /* Веб-сайт */
 
   font-weight: 400;
-  font-size: 16px;
-  line-height: 2;
+ 
+  line-height: 1.2;
   /* identical to box height, or 188% */
 
   letter-spacing: 0.03em;
@@ -339,8 +350,8 @@
   /* Дизайн */
 
   font-weight: 400;
-  font-size: 16px;
-  line-height: 2;
+
+  line-height: 1.2;
   /* identical to box height, or 188% */
 
   letter-spacing: 0.03em;
@@ -352,8 +363,8 @@
   /* Додаток */
 
   font-weight: 400;
-  font-size: 16px;
-  line-height: 2;
+ 
+  line-height: 1.2;
   /* identical to box height, or 188% */
 
   letter-spacing: 0.03em;
@@ -364,8 +375,8 @@
   /* Маркетинг */
 
   font-weight: 400;
-  font-size: 16px;
-  line-height: 2;
+ 
+  line-height: 1.2;
   /* identical to box height, or 188% */
 
   letter-spacing: 0.03em;
@@ -376,8 +387,8 @@
   /* Додаток */
 
   font-weight: 400;
-  font-size: 16px;
-  line-height: 2;
+ 
+  line-height: 1.2;
   /* identical to box height, or 188% */
 
   letter-spacing: 0.03em;
@@ -388,8 +399,7 @@
   /* Веб-сайт */
 
   font-weight: 400;
-  font-size: 16px;
-  line-height: 2;
+  line-height: 1.2;
   /* identical to box height, or 188% */
 
   letter-spacing: 0.03em;
@@ -401,8 +411,8 @@
   /* Дизайн */
 
   font-weight: 400;
-  font-size: 16px;
-  line-height: 2;
+  
+  line-height: 1.2;
   /* identical to box height, or 188% */
 
   letter-spacing: 0.03em;
@@ -413,8 +423,8 @@
   /* Маркетинг */
 
   font-weight: 400;
-  font-size: 16px;
-  line-height: 2;
+  
+  line-height: 1.2;
   /* identical to box height, or 188% */
 
   letter-spacing: 0.03em;
@@ -425,8 +435,8 @@
   /* Додаток */
 
   font-weight: 400;
-  font-size: 16px;
-  line-height: 2;
+
+  line-height: 1.2;
   /* identical to box height, or 188% */
 
   letter-spacing: 0.03em;
