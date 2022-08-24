@@ -98,8 +98,10 @@
 .main-title {
   left: 1078px;
   right: 1078px;
+  display: flex;
 }
-
+.filters{display: flex;}
+ 
 
   .filters .button.button-item {
      /* Rectangle 10 */
@@ -122,7 +124,12 @@
     color: var(--white-text-color);
     background-color: var(--accent-bg-color);
   }
-
+.filters-8{
+  display: flex;
+  justify-content: space-around;
+  width: 1170px;
+height: 1360px;
+}
 .title-2 {
   /* Веб-сайти */
 
