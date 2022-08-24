@@ -67,8 +67,8 @@
   font-size: 14px;
   line-height: 1.2;
   letter-spacing: 0.02em;
-
   color: #2196f3;
+ 
 }
 
 .item-4 {
@@ -101,10 +101,11 @@
   color: #ffffff;
 }
 .button {
+   color: #fff;
   background: #2196f3;
   box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.15);
   border-radius: 4px;
-  color: #fff;
+ 
   letter-spacing: 0.06em;
   font-family: inherit;
   font-weight: 700;
@@ -115,8 +116,6 @@
   display: inline-block;
   padding: 10px 32px;
   border-radius: 4px;
-  min-width: 216px;
-  min-height: 50px;
   border: transparent;
 }
 
@@ -178,15 +177,9 @@
 
   color: #757575;
 }
-.text-1 {
-  font-size: 14px;
-  line-height: 1.2;
-  /* or 171% */
 
-  letter-spacing: 0.03em;
+ 
 
-  color: #757575;
-}
 .text-2 {
   /* Так само консультація з широким активом значною мірою зумовлює. */
 
